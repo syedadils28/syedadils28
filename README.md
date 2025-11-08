@@ -24,7 +24,7 @@
 
 
 ## Projects
-- online book donate management project using HTML, CSS, JavaScript, PHP, and MySQL. [Book Donation Repositories](https://reactjsmini.ccbp.tech/login):
+- online book donate management project using HTML, CSS, JavaScript, PHP, and MySQL. [Book Donation Repositories](https://github.com/syedadils28/Online-Book-Donate-Management.git):
 - 📝“You can view the live demo here: **[View](http://SACoder.infinityfree.me)**
 
 ## Let's Connect!
